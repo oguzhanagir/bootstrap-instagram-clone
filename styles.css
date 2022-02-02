@@ -1,0 +1,20 @@
+.navbar-container{
+    height: 54px;
+    background-color: white !important;
+}
+
+.logo{
+    margin-left: 192px;
+}
+
+::placeholder{
+    background-image: url(search-solid.svg);
+    background-repeat: no-repeat;
+    background-size: 16px;
+    background-position: left;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 14px;
+    
+   
+}
